@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: test-foo
+  labels:
+    environment-id: env_bcd26f28-09d4-47cc-82a2-9d07517ab15a
+    project-id: project_be9f6dc1-60f5-4a42-9cad-8a7395b11efa
+    project-name: local-resource-service-project-chirath
+    environment-name: test-env-2
+    organization-id: org_d47c88d4-4669-4b20-b366-32ada20b3b70
